@@ -6,9 +6,12 @@ I'm currently enrolled in General Assembly's Software Engineering Immersive boot
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## 🏋️ Currently working on...
-Building my first-ever(!) project -> my spin on the web-based browser memory game, Simon, titled 'SIMON: NYC' 🗽 🍎
-![]()
+## 🏋️ Recent projects / currently working on...
+I just built my first ever web-browser game, my take on the classic memory game, Simon.
+
+**SIMON: NYC' 🗽**
+- 👨‍💻 <a href="https://github.com/zachkurfirst/project-1-simon-nyc" target="_blank">Repository</a>
+- ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank">Play Game</a>
 
 ## When I'm not coding...
 - 📺 Currently watching: Only Murders in the Building
