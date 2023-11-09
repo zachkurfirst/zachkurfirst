@@ -1,17 +1,20 @@
 # 👋 Hello there! I’m Zach
-I'm a 31-year old marketer-turned software engineer living in New York City! I recently moved to the city after 12 years in Miami 🌴, so I'm looking forward to coding my way through the cold winter months ahead... 🥶
+I'm a technical marketer-turned software engineer living in New York City! I recently moved to the city after 12 years in Miami 🌴, so I'm looking forward to coding my way through the cold winter months ahead... 🥶
 
 ## 👨‍💻 🚀 Software engineer loading...
-I'm currently enrolled in General Assembly's Software Engineering Immersive bootcamp, where I am currently learning the ins and outs of the fundamental frontend languages HTML, CSS, and JavaScript.
+I'm currently enrolled in General Assembly's Software Engineering Immersive bootcamp -- an intensive, twelve-week software development program.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-## 🏋️ Recent projects / currently working on...
+## 🏋️ Recent projects
 I just built my first ever web-browser game, my take on the classic memory game, Simon.
 
 **SIMON: NYC' 🗽**
 - 👨‍💻 <a href="https://github.com/zachkurfirst/project-1-simon-nyc" target="_blank">Repository</a>
 - ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank">Play Game</a>
+
+## 📝 Currently learning...
+- Full-stack development via Node JS and the Express framework
 
 ## When I'm not coding...
 - 📺 Currently watching: Only Murders in the Building
