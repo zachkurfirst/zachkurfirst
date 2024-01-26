@@ -3,26 +3,28 @@ I'm a technical marketer-turned software engineer living in New York City! I rec
 
 I recently graduated General Assembly's Software Engineering Immersive bootcamp! This intensive, twelve-week software development program was an experience that I'd recommend to anyone looking to pivot into software development.
 
+🌐 <a href="https://zachkurfirst.netlify.app/" target="_blank" rel="noreferrer noopener">Visit my portfolio</a>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🏋️ Recent projects
 During my time as a student, I built four diverse projects that I'm proud to share!
 
 **Dunk Dynasty 🏀**
-- 👨‍💻 <a href="https://github.com/zachkurfirst/dunk-dynasty" target="_blank">Repository</a>
-- ▶️ <a href="https://dunkdynasty-7001c09430f6.herokuapp.com/" target="_blank">App</a>
+- 👨‍💻 <a href="https://github.com/zachkurfirst/dunk-dynasty" target="_blank" rel="noreferrer noopener">Repository</a>
+- 🌐 <a href="https://dunkdynasty-7001c09430f6.herokuapp.com/" target="_blank" rel="noreferrer noopener">App</a>
 
 **Journey Craft 🧳**
-- 👨‍💻 <a href="https://github.com/bsong1124/trip-planner-client" target="_blank">Repository</a>
-- ▶️ <a href="https://journeycraft.netlify.app/" target="_blank">App</a>
+- 👨‍💻 <a href="https://github.com/bsong1124/trip-planner-client" target="_blank" rel="noreferrer noopener">Repository</a>
+- 🌐 <a href="https://journeycraft.netlify.app/" target="_blank" rel="noreferrer noopener">App</a>
 
 **BeatBuddy 🎶**
-- 👨‍💻 <a href="https://github.com/connorgunter/music-playlist-app" target="_blank">Repository</a>
-- ▶️ <a href="https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/" target="_blank">App</a>
+- 👨‍💻 <a href="https://github.com/connorgunter/music-playlist-app" target="_blank" rel="noreferrer noopener">Repository</a>
+- 🌐 <a href="https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/" target="_blank" rel="noreferrer noopener">App</a>
 
 **SIMON: NYC' 🗽**
-- 👨‍💻 <a href="https://github.com/zachkurfirst/project-1-simon-nyc" target="_blank">Repository</a>
-- ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank">Game</a>
+- 👨‍💻 <a href="https://github.com/zachkurfirst/project-1-simon-nyc" target="_blank" rel="noreferrer noopener">Repository</a>
+- ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank" rel="noreferrer noopener">Game</a>
 
 ## When I'm not coding...
 - 📺 Currently watching: Reacher
