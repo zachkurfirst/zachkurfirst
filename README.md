@@ -1,17 +1,17 @@
 # 👋 Hello there! I’m Zach
 
 ## A bit about me...
-I'm a software engineer who recently graduated from General Assembly's immersive bootcamp. During my time in the program, I've learned a variety of programming languages, libraries, and frameworks to create user-friendly, interactive full-stack applications.
+I'm a software engineer who recently graduated from General Assembly's immersive bootcamp. During my time in the program, I've learned a variety of programming languages, libraries, and frameworks to create user-friendly, interactive full-stack applications. Take a look at some of the languages I've been coding in 👇
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 After 8 years working in technical marketing, I had an epiphany—I felt the most energized when collaborating with web developers and mobile app engineers. This revelation prompted me to dive headfirst into learning to code myself and pursuing a career as a software engineer!
 
 In my previous roles at Ultra Music Festival and Mana Common, I took on projects that gave me valuable experience in marketing's technical landscape, such as managing the development and launch of over 20 website domains, and serving as project-lead for a mobile app that gained over 250,000 downloads.
 
-I'm excited to now merge my marketing expertise with my newfound technical skills as I pivot into the world of software engineering!
+I'm excited to now merge my marketing expertise with my newfound technical skills as I pivot into the dynamic world of software engineering!
 
 🌐 <a href="https://zachkurfirst.netlify.app/" target="_blank" rel="noreferrer noopener">Visit my portfolio</a>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 ## 🏋️ Recent projects
 During my time as a student, I built four diverse projects that I'm proud to share!
@@ -28,7 +28,7 @@ During my time as a student, I built four diverse projects that I'm proud to sha
 - 👨‍💻 <a href="https://github.com/connorgunter/music-playlist-app" target="_blank" rel="noreferrer noopener">Repository</a>
 - 🌐 <a href="https://beatbuddy-7a9e4cc3fd5d.herokuapp.com/" target="_blank" rel="noreferrer noopener">App</a>
 
-**SIMON: NYC' 🗽**
+**SIMON: NYC 🗽**
 - 👨‍💻 <a href="https://github.com/zachkurfirst/project-1-simon-nyc" target="_blank" rel="noreferrer noopener">Repository</a>
 - ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank" rel="noreferrer noopener">Game</a>
 
