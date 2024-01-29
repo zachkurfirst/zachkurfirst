@@ -1,7 +1,13 @@
 # 👋 Hello there! I’m Zach
-I'm a technical marketer-turned software engineer living in New York City! I recently moved to the city after 12 years in Miami 🌴, so I'm looking forward to coding my way through the cold winter months ahead... 🥶
 
-I recently graduated General Assembly's Software Engineering Immersive bootcamp! This intensive, twelve-week software development program was an experience that I'd recommend to anyone looking to pivot into software development.
+## A bit about me...
+I'm a software engineer who recently graduated from General Assembly's immersive bootcamp. During my time in the program, I've learned a variety of programming languages, libraries, and frameworks to create user-friendly, interactive full-stack applications.
+
+After 8 years working in technical marketing, I had an epiphany—I felt the most energized when collaborating with web developers and mobile app engineers. This revelation prompted me to dive headfirst into learning to code myself and pursuing a career as a software engineer!
+
+In my previous roles at Ultra Music Festival and Mana Common, I took on projects that gave me valuable experience in marketing's technical landscape, such as managing the development and launch of over 20 website domains, and serving as project-lead for a mobile app that gained over 250,000 downloads.
+
+I'm excited to now merge my marketing expertise with my newfound technical skills as I pivot into the world of software engineering!
 
 🌐 <a href="https://zachkurfirst.netlify.app/" target="_blank" rel="noreferrer noopener">Visit my portfolio</a>
 
@@ -27,6 +33,7 @@ During my time as a student, I built four diverse projects that I'm proud to sha
 - ▶️ <a href="https://zachkurfirst.github.io/project-1-simon-nyc/" target="_blank" rel="noreferrer noopener">Game</a>
 
 ## When I'm not coding...
+- Exploring NYC 🍎 (where I recently moved and now call home!)
 - 📺 Currently watching: Reacher
 - 📖 Current reading: The Hobbit
 - 🎧 Currently listening to: David Kushner
