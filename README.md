@@ -5,7 +5,7 @@ I'm a software engineer who recently graduated from General Assembly's immersive
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zachkurfirst&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
-After 8 years working in technical marketing, I had an epiphany—I felt the most energized when collaborating with web developers and mobile app engineers. This revelation prompted me to dive headfirst into learning to code myself and pursuing a career as a software engineer!
+After 8 years of working in technical solutions and marketing, I had an epiphany— I felt the most energized when collaborating with web developers and mobile app engineers. This revelation prompted me to dive headfirst into learning to code myself and pursuing a career as a software engineer!
 
 In my previous roles at Ultra Music Festival and Mana Common, I took on projects that gave me valuable experience in marketing's technical landscape, such as managing the development and launch of over 20 website domains, and serving as project-lead for a mobile app that gained over 250,000 downloads.
 
@@ -34,9 +34,9 @@ During my time as a student, I built four diverse projects that I'm proud to sha
 
 ## When I'm not coding...
 - Exploring NYC 🍎 (where I recently moved and now call home!)
-- 📺 Currently watching: Reacher
+- 📺 Currently watching: Shogun
 - 📖 Current reading: The Hobbit
-- 🎧 Currently listening to: David Kushner
+- 🎧 Currently listening to: Djo, Novo Amor
 - 🏟️ Rooting on Philadelphia sports teams (Flyers 🏒, Eagles 🏈, and Phillies ⚾️)
 
 ## 📊 By the numbers...
