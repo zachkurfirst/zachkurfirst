@@ -9,7 +9,7 @@ After 8 years of working in technical solutions and marketing, I had an epiphany
 
 In my previous roles at Ultra Music Festival and Mana Common, I took on projects that gave me valuable experience in marketing's technical landscape, such as managing the development and launch of over 20 website domains, and serving as project-lead for a mobile app that gained over 250,000 downloads.
 
-I'm excited to now merge my marketing expertise with my newfound technical skills as I pivot into the dynamic world of software engineering!
+I'm excited to now merge this expertise with my newfound technical skills as I pivot into the dynamic world of software engineering!
 
 🌐 <a href="https://zachkurfirst.netlify.app/" target="_blank" rel="noreferrer noopener">Visit my portfolio</a>
 
@@ -35,8 +35,8 @@ During my time as a student, I built four diverse projects that I'm proud to sha
 ## When I'm not coding...
 - Exploring NYC 🍎 (where I recently moved and now call home!)
 - 📺 Currently watching: Shogun
-- 📖 Current reading: The Hobbit
-- 🎧 Currently listening to: Djo, Novo Amor
+- 📖 Current reading: Shoe Dog
+- 🎧 Currently listening to: Benson Boone
 - 🏟️ Rooting on Philadelphia sports teams (Flyers 🏒, Eagles 🏈, and Phillies ⚾️)
 
 ## 📊 By the numbers...
